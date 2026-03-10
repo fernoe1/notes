@@ -2,7 +2,7 @@ Continuation from the previous task.
 
 
 
-Using NVIDIA AI Canvas, create a custom made environment map.
+Using NVIDIA Canvas, create a custom made environment map.
 
 
 
