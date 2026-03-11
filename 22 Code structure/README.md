@@ -2,5 +2,5 @@ To do tasks in this section you will need specific starter as it contains specif
 
 
 
-Download it at https://download-directory.github.io/?url=
+Download it at https://download-directory.github.io/?url=https://github.com/fernoe1/threejs-tasks/tree/main/22%20Code%20structure/starter
 
