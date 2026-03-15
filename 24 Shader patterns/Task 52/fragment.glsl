@@ -60,6 +60,8 @@ void main() {
     vec3 blackColor = vec3(0.0);
     vec3 uvColor = vec3(vUv, 1.0);
 
+    strength = clamp(strength, 0.0, 1.0);
+
     vec3 mixedColor = mix(blackColor, uvColor, strength);
 
     gl_FragColor = vec4(mixedColor, 1.0);
