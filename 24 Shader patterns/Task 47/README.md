@@ -2,7 +2,7 @@ Create the following pattern below using vUv inside fragment.glsl.
 
 Since the pattern is glayscale float strength variable to hold vUv variable you will use, and spread it using vec3() inside vec4(). 
 
-Use pernil noise.
+Use perlin noise.
 
 ```
 vec4 permute(vec4 x) { return mod(((x*34.0)+1.0)*x, 289.0); }
