@@ -1,0 +1,1 @@
+Rewrite everything in the script.js to practise syntax. (You can skip this task if you want.)
