@@ -1,0 +1,1 @@
+Rewrite everything in the script.js by yourself. (You can skip this task)
