@@ -1,0 +1,10 @@
+const Experience = () => {
+    return <>
+        <mesh rotation-y={ Math.PI * 0.25 } position-x={ 2 } scale={ 2 }>
+            <boxGeometry />
+            <meshBasicMaterial color="mediumpurple" wireframe />
+        </mesh>
+    </>
+};
+
+export default Experience;
