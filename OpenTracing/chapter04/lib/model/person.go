@@ -1,7 +1,7 @@
 package model
 
 type Person struct {
-	Name        string
+	Name        string `gorm:"primaryKey"`
 	Title       string
 	Description string
 }
