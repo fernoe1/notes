@@ -1,4 +1,4 @@
-package tracer
+package trace
 
 import (
 	"io"
@@ -16,7 +16,8 @@ func Init(service string) (opentracing.Tracer, io.Closer) {
 			Param: 1,
 		},
 		Reporter: &config.ReporterConfig{
-			LogSpans: true,
+			LogSpans:          true,
+			CollectorEndpoint: "http://localhost:14268/api/traces",
 		},
 	}
 
