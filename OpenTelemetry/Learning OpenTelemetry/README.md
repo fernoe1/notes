@@ -1,0 +1,1 @@
+![Learning OpenTelemetry](learning-opentelemetry.jpg)
