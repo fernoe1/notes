@@ -1,4 +1,4 @@
-package stringTemplates.practice
+package practice
 
 fun main() {
     val name = "Mary"
