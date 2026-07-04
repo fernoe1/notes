@@ -1,0 +1,1 @@
+Kick start react app using vite, and install three and @react-three/fiber dependencies for it.
