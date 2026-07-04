@@ -1,0 +1,1 @@
+Create canvas, add ambient light, directional light and a cube with phong material using R3F.
