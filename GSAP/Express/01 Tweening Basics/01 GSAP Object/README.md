@@ -1,0 +1,2 @@
+# GSAP Object
+GSAP Object is a single point of entry for everything gsap related, be it creating animations(tweens, timelines), configure settings(defaults), register new plugins and effects, and global control over all animations in general.
